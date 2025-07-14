@@ -1,7 +1,7 @@
 # ChesStat-privacy-policy
 **Effective date:** July 14, 2025
 
-This Privacy Policy describes how your data is handled by the **[App Name]** mobile application (“the App”).
+This Privacy Policy describes how your data is handled by the **ChesStat** mobile application.
 
 ## 1. Data Collection
 
